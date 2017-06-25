@@ -1,0 +1,61 @@
+.banner{
+			height: 245px;
+			width: 1400px;
+			
+			align: center;
+					}
+.logo{
+	width: 1400px;
+	height: 245px;
+}
+.daohang{
+	width: 1400px;
+	height: 70px;
+
+}
+.daohang ul{
+	list-style: none;
+}
+.daohang ul li{
+	float: left;
+	margin-right: 60px;
+}
+.daohang ul li a{
+	text-decoration-style: none;
+	color: black;
+	text-decoration: none;
+}
+.kongzuo{
+	width: 300px;
+	height: 1000px;
+	float: left;
+}
+.zhongjian{
+	width: 600px;
+	height: 3000px;
+	float: left;
+}
+.kongyou{
+	width: 300px;
+	height: 1000px;
+	float: left;
+}
+.tu1{
+	width: 600px;
+	height: 450px;
+}
+h1{
+	color: blue;
+}
+.tu2{
+	width: 600px;
+	height: 450px;
+}
+.tu3{
+	width: 600px;
+	height: 450px;
+}
+.tu4{
+	width: 600px;
+	height: 450px;
+}

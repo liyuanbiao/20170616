@@ -1,0 +1,65 @@
+.banner{
+			height: 245px;
+			width: 1400px;
+			
+			align: center;
+					}
+.logo{
+	width: 1400px;
+	height: 245px;
+}
+.daohang{
+	width: 1400px;
+	height: 70px;
+
+}
+.daohang ul{
+	list-style: none;
+}
+.daohang ul li{
+	float: left;
+	margin-right: 60px;
+}
+.daohang ul li a{
+	text-decoration-style: none;
+	color: black;
+	text-decoration: none;
+}
+.zuobian{
+	width: 600px;
+	height: 1000px;
+	
+	float: left;
+}
+.zhongjian{
+	width: 700px;
+	height: 1000px;
+	
+	float: left;
+}
+.tu{
+	width: 600px;
+	height: 972px;
+}
+.wenzi{
+	font-size: 24px;
+}
+.zhanghao{
+	width: 200px;
+	height: 50px;
+}
+.mima{
+	width: 200px;
+	height: 50px;
+}
+.keyword{
+	width: 200px;
+	height: 50px;
+}
+
+.zhongjian input[type='button']{
+	width: 43px;
+	height: 34px;
+	margin-right: 50px;
+	background-image: url(../ss.gif);
+}
